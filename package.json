@@ -1,0 +1,8 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "electron study",
+  "main": "index.js",
+  "author": "zhangmin0925",
+  "license": "MIT"
+}
